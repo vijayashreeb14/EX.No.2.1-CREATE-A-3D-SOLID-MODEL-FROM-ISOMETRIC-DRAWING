@@ -7,7 +7,7 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 ## REQUIREMENTS
 1. Autodesk fusion 360
 2. Windows 10
-3. 16 GB of RAM (integrated graphics recommend 1 GB or more)
+3. 16 GB of RAM (integrated graphics recommend 1 GB or more
 4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
 
 ## PROCEDURE
